@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MES-UI", "MES-UI\MES-UI.csproj", "{17B76814-7FE1-45B7-801A-31D0A3608CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B76814-7FE1-45B7-801A-31D0A3608CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B76814-7FE1-45B7-801A-31D0A3608CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B76814-7FE1-45B7-801A-31D0A3608CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B76814-7FE1-45B7-801A-31D0A3608CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A1F3F4-40A2-4AF0-B17E-44E86A0A01E6}
+	EndGlobalSection
+EndGlobal

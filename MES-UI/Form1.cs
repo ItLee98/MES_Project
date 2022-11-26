@@ -115,7 +115,7 @@ namespace MES_UI
 
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
-            int n = 1234;
+            int n = 123456;
         }
         private void button2_Click(object sender, EventArgs e)
         {
